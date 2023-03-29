@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class Programa {
 	
@@ -12,12 +12,11 @@ public class Programa {
 			num=pedirNumero();
 			resul=compararNumeros(num, valor);
 			System.out.println(resul);
-			
 		}while(resul!=0);
 		System.out.println("Felicitaciones acertaste!!");
 	}
 	
-	//devuelve un numero aleatorio entre 1 y 100
+	//devuelve un numero aleatorio entre 1 y 1000
 	int generarAleatorio(){
 		//completar aquí
 	}
@@ -31,11 +30,10 @@ public class Programa {
 	 }
 	
 	 //compara dos enteros a y b. Devuelve un String indicando si es menor, mayor o igual
-	 int compararNumeros(int a, int b){
+	 String compararNumeros(int a, int b){
 		 //completar aquí
 	 }
 	
 }
 
-
-}
+*/
